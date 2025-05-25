@@ -28,7 +28,7 @@ This course laid the groundwork for writing clean, efficient Python code for dat
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
